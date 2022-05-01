@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.14)
-project(cam_hacket_upskill_app LANGUAGES CXX)
+project(cameron_flutter_upskilling LANGUAGES CXX)
 
-set(BINARY_NAME "cam_hacket_upskill_app")
+set(BINARY_NAME "cameron_flutter_upskilling")
 
 cmake_policy(SET CMP0063 NEW)
 
